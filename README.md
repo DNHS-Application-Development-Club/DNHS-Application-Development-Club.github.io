@@ -6,6 +6,7 @@ Source code to Del Norte High School Application Development Club's website.
 
 
 # Team
-President: Chris Duroiu
-Vice President: Nolan Platt & Raquib Alam 
+<b>President</b>: Chris Duroiu
+
+<b>Vice President</b>: Nolan Platt & Raquib Alam 
 
