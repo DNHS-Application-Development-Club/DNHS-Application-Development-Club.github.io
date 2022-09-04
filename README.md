@@ -1,6 +1,6 @@
 # DNHS-Application-Development-Club.github.io
 
-https://dnhsapppdev.com
+https://dnhsappdev.com
 
 Source code to Del Norte High School Application Development Club's website.
 
